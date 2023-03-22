@@ -56,3 +56,5 @@ fun calculateWeightedAverage(labGrade: Double, firstAdvanceGrade: Double, second
 
     return labGrade * labWeight + firstAdvanceGrade * firstAdvanceWeight + secondAdvanceGrade * secondAdvanceWeight + finalProjectGrade * finalProjectWeight
 }
+
+//Se finaliza la practica
